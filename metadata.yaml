@@ -1,4 +1,8 @@
 _repo: Lessons-in-Life-A-Series-of-Familiar-Essays_8932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holland, J. G. (Josiah Gilbert)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2046
     wikipedia: http://en.wikipedia.org/wiki/Josiah_Gilbert_Holland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8932#Lessons-in-Life-A-Series-of-Familiar-Essays
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
